@@ -1,0 +1,9 @@
+﻿/uploads/*
+!.gitkeep
+
+.env
+config/config.php
+
+*.log
+.DS_Store
+Thumbs.db
