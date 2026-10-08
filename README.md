@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Cloud-Based Student Assignment Submission System
 
 This project is a PHP 8.2+ student assignment submission platform designed for local XAMPP development and cloud readiness on AWS.
@@ -36,3 +37,6 @@ This application inspects and adapts to the already existing database schema in 
 ## AWS-ready design
 
 The project includes an AWS S3 abstraction under `aws/s3.php` and environment-driven configuration examples in `config/config.example.php`. The storage layer is designed to allow a smooth transition from local file storage to S3 without changing the application flow.
+=======
+# CC_PROJECT
+>>>>>>> b086dac3f457501376bcf2d93ba8e06a00b3f94b
